@@ -14,6 +14,7 @@ public:
 	void insert() {
 		int nua;
 		cout << "enter a number: ";
+		cin >> nua;
 
 	}
 };
