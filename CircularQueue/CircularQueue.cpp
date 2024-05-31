@@ -15,6 +15,6 @@ public:
 		int nua;
 		cout << "enter a number: ";
 		cin >> nua;
-
+		cout << endl;
 	}
 };
